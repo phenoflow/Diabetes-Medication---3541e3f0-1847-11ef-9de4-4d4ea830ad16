@@ -1,0 +1,378 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/diabetes-medication-sachet---primary.py
+inputModule3:
+  class: File
+  path: python/diabetes-medication-100mg---primary.py
+inputModule4:
+  class: File
+  path: python/diabetes-medication-lantus---primary.py
+inputModule5:
+  class: File
+  path: python/diabetes-medication-novomix---primary.py
+inputModule6:
+  class: File
+  path: python/diabetes-medication-optipen---primary.py
+inputModule7:
+  class: File
+  path: python/diabetes-medication-takeda---primary.py
+inputModule8:
+  class: File
+  path: python/diabetes-medication-innovo---primary.py
+inputModule9:
+  class: File
+  path: python/diabetes-medication-10microgram---primary.py
+inputModule10:
+  class: File
+  path: python/diabetes-medication-pioglitazone---primary.py
+inputModule11:
+  class: File
+  path: python/diabetes-medication-isophane---primary.py
+inputModule12:
+  class: File
+  path: python/diabetes-medication-injex---primary.py
+inputModule13:
+  class: File
+  path: python/diabetes-medication-hillcross---primary.py
+inputModule14:
+  class: File
+  path: python/diabetes-medication-amaryl---primary.py
+inputModule15:
+  class: File
+  path: python/rapid-diabetes-medication---primary.py
+inputModule16:
+  class: File
+  path: python/diabetes-medication-needle---primary.py
+inputModule17:
+  class: File
+  path: python/diabetes-medication-500mg---primary.py
+inputModule18:
+  class: File
+  path: python/consumable-diabetes-medication---primary.py
+inputModule19:
+  class: File
+  path: python/diabetes-medication-libanil---primary.py
+inputModule20:
+  class: File
+  path: python/diabetes-medication-basal---primary.py
+inputModule21:
+  class: File
+  path: python/single-diabetes-medication---primary.py
+inputModule22:
+  class: File
+  path: python/diabetes-medication-180mg---primary.py
+inputModule23:
+  class: File
+  path: python/diabetes-medication-protaphane---primary.py
+inputModule24:
+  class: File
+  path: python/diabetes-medication-duloxetine---primary.py
+inputModule25:
+  class: File
+  path: python/diabetes-medication-edition---primary.py
+inputModule26:
+  class: File
+  path: python/diabetes-medication-tolbutamide---primary.py
+inputModule27:
+  class: File
+  path: python/mixed-diabetes-medication---primary.py
+inputModule28:
+  class: File
+  path: python/diabetes-medication-orabet---primary.py
+inputModule29:
+  class: File
+  path: python/diabetes-medication-metformin---primary.py
+inputModule30:
+  class: File
+  path: python/diabetes-medication-onglyza---primary.py
+inputModule31:
+  class: File
+  path: python/diabetes-medication-unifine---primary.py
+inputModule32:
+  class: File
+  path: python/diabetes-medication-750mg---primary.py
+inputModule33:
+  class: File
+  path: python/diabetes-medication-hypoguard---primary.py
+inputModule34:
+  class: File
+  path: python/diabetes-medication-chlorpropamide---primary.py
+inputModule35:
+  class: File
+  path: python/diabetes-medication-bayer---primary.py
+inputModule36:
+  class: File
+  path: python/servier-diabetes-medication---primary.py
+inputModule37:
+  class: File
+  path: python/diabetes-medication-lente---primary.py
+inputModule38:
+  class: File
+  path: python/diabetes-medication-metabet---primary.py
+inputModule39:
+  class: File
+  path: python/diabetes-medication-glargine---primary.py
+inputModule40:
+  class: File
+  path: python/special-diabetes-medication---primary.py
+inputModule41:
+  class: File
+  path: python/diabetes-medication-optiset---primary.py
+inputModule42:
+  class: File
+  path: python/diabetes-medication-inhalation---primary.py
+inputModule43:
+  class: File
+  path: python/diabetes-medication-kwikpen---primary.py
+inputModule44:
+  class: File
+  path: python/diabetes-medication-mhi500---primary.py
+inputModule45:
+  class: File
+  path: python/diabetes-medication-protamine---primary.py
+inputModule46:
+  class: File
+  path: python/diabetes-medication-luxura---primary.py
+inputModule47:
+  class: File
+  path: python/diabetes-medication-solostar---primary.py
+inputModule48:
+  class: File
+  path: python/diabetes-medication-cymbalta---primary.py
+inputModule49:
+  class: File
+  path: python/diabetes-medication-device---primary.py
+inputModule50:
+  class: File
+  path: python/diabetes-medication-glibenclamide---primary.py
+inputModule51:
+  class: File
+  path: python/diabetes-medication-repaglinide---primary.py
+inputModule52:
+  class: File
+  path: python/diabetes-medication-exelint---primary.py
+inputModule53:
+  class: File
+  path: python/diabetes-medication-microfine---primary.py
+inputModule54:
+  class: File
+  path: python/diabetes-medication-silver---primary.py
+inputModule55:
+  class: File
+  path: python/ultra-diabetes-medication---primary.py
+inputModule56:
+  class: File
+  path: python/diabetes-medication-powder---primary.py
+inputModule57:
+  class: File
+  path: python/diabetes-medication-becton---primary.py
+inputModule58:
+  class: File
+  path: python/diabetes-medication-preset---primary.py
+inputModule59:
+  class: File
+  path: python/diabetes-medication-starter---primary.py
+inputModule60:
+  class: File
+  path: python/diabetes-medication-prolonged---primary.py
+inputModule61:
+  class: File
+  path: python/diabetes-medication-saxagliptin---primary.py
+inputModule62:
+  class: File
+  path: python/diabetes-medication-acting---primary.py
+inputModule63:
+  class: File
+  path: python/diabetes-medication-tablet---primary.py
+inputModule64:
+  class: File
+  path: python/diabetes-medication-velosulin---primary.py
+inputModule65:
+  class: File
+  path: python/diabetes-medication-sqpen---primary.py
+inputModule66:
+  class: File
+  path: python/diabetes-medication-glimepiride---primary.py
+inputModule67:
+  class: File
+  path: python/diabetes-medication-morningsid---primary.py
+inputModule68:
+  class: File
+  path: python/diabetes-medication-sandoz---primary.py
+inputModule69:
+  class: File
+  path: python/diabetes-medication-detemir---primary.py
+inputModule70:
+  class: File
+  path: python/diabetes-medication-sanofi---primary.py
+inputModule71:
+  class: File
+  path: python/diabetes-medication-terumo---primary.py
+inputModule72:
+  class: File
+  path: python/disposable-diabetes-medication---primary.py
+inputModule73:
+  class: File
+  path: python/diabetes-medication-suspension---primary.py
+inputModule74:
+  class: File
+  path: python/diabetes-medication-rosiglitazone---primary.py
+inputModule75:
+  class: File
+  path: python/diabetes-medication-starlix---primary.py
+inputModule76:
+  class: File
+  path: python/diabetes-medication-diabetamide---primary.py
+inputModule77:
+  class: File
+  path: python/diabetes-medication-850mg---primary.py
+inputModule78:
+  class: File
+  path: python/diabetes-medication-gliclazide---primary.py
+inputModule79:
+  class: File
+  path: python/diabetes-medication-celltech---primary.py
+inputModule80:
+  class: File
+  path: python/diabetes-medication-human---primary.py
+inputModule81:
+  class: File
+  path: python/diabetes-medication-modified---primary.py
+inputModule82:
+  class: File
+  path: python/diabetes-medication-clikstar---primary.py
+inputModule83:
+  class: File
+  path: python/diabetes-medication-syringe---primary.py
+inputModule84:
+  class: File
+  path: python/diabetes-medication-clinipak---primary.py
+inputModule85:
+  class: File
+  path: python/diabetes-medication-minodiab---primary.py
+inputModule86:
+  class: File
+  path: python/diabetes-medication-malix---primary.py
+inputModule87:
+  class: File
+  path: python/diabetes-medication-opticlik---primary.py
+inputModule88:
+  class: File
+  path: python/diabetes-medication-avandia---primary.py
+inputModule89:
+  class: File
+  path: python/diabetes-medication-120mg---primary.py
+inputModule90:
+  class: File
+  path: python/diabetes-medication-humulin---primary.py
+inputModule91:
+  class: File
+  path: python/diabetes-medication-actavis---primary.py
+inputModule92:
+  class: File
+  path: python/diabetes-medication-aspart---primary.py
+inputModule93:
+  class: File
+  path: python/diabetes-medication-semitard---primary.py
+inputModule94:
+  class: File
+  path: python/diabetes-medication-covidien---primary.py
+inputModule95:
+  class: File
+  path: python/diabetes-medication-pharmacia---primary.py
+inputModule96:
+  class: File
+  path: python/diabetes-medication-glulisine---primary.py
+inputModule97:
+  class: File
+  path: python/diabetes-medication-actraphane---primary.py
+inputModule98:
+  class: File
+  path: python/diabetes-medication-glipizide---primary.py
+inputModule99:
+  class: File
+  path: python/diabetes-medication-braun---primary.py
+inputModule100:
+  class: File
+  path: python/diabetes-medication-tolanase---primary.py
+inputModule101:
+  class: File
+  path: python/diabetes-medication-acarbose---primary.py
+inputModule102:
+  class: File
+  path: python/diabetes-medication-wockhardt---primary.py
+inputModule103:
+  class: File
+  path: python/diabetes-medication-crystalline---primary.py
+inputModule104:
+  class: File
+  path: python/yellow-diabetes-medication---primary.py
+inputModule105:
+  class: File
+  path: python/diabetes-medication-daonil---primary.py
+inputModule106:
+  class: File
+  path: python/diabetes-medication-glucamet---primary.py
+inputModule107:
+  class: File
+  path: python/diabetes-medication-calabren---primary.py
+inputModule108:
+  class: File
+  path: python/diabetes-medication-eucrea---primary.py
+inputModule109:
+  class: File
+  path: python/diabetes-medication-monoject---primary.py
+inputModule110:
+  class: File
+  path: python/diabetes-medication-lentard---primary.py
+inputModule111:
+  class: File
+  path: python/diabetes-medication-tolazamide---primary.py
+inputModule112:
+  class: File
+  path: python/diabetes-medication-glass---primary.py
+inputModule113:
+  class: File
+  path: python/diabetes-medication-insulatard---primary.py
+inputModule114:
+  class: File
+  path: python/diabetes-medication-sitagliptin---primary.py
+inputModule115:
+  class: File
+  path: python/diabetes-medication-nozzle---primary.py
+inputModule116:
+  class: File
+  path: python/diabetes-medication-nateglinide---primary.py
+inputModule117:
+  class: File
+  path: python/diabetes-medication-prandin---primary.py
+inputModule118:
+  class: File
+  path: python/diabetes-medication-pharm---primary.py
+inputModule119:
+  class: File
+  path: python/diabetes-medication-diabinese---primary.py
+inputModule120:
+  class: File
+  path: python/diabetes-medication-yentreve---primary.py
+inputModule121:
+  class: File
+  path: python/diabetes-medication-euglucon---primary.py
+inputModule122:
+  class: File
+  path: python/diabetes-medication-250mg---primary.py
+inputModule123:
+  class: File
+  path: python/diabetes-medication-pfizer---primary.py
+inputModule124:
+  class: File
+  path: python/diabetes-medication-bovine---primary.py
+inputModule125:
+  class: File
+  path: python/diabetes-medication-injection---primary.py
+inputModule126:
+  class: File
+  path: python/output-cases.py
